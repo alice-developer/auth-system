@@ -3,7 +3,7 @@ Esse é um sistema de registro e login feit em Typescript, onde ao se autenticar
 
 ## 🧰 Variáveis de ambiente
 Crie um arquivo de nome `.env`, onde nele deverá possuir os seguintes atributos abaixo:
-```toml
+```env
 # Porta onde será iniciada a API e secret JWT para assinar os tokens
 PORT=8081
 JWT_SECRET=SEU SECRET JWT
